@@ -12,6 +12,7 @@ In this analysis, I generated a pivot table with specific fields and filters, th
 
 #### Analysis of Outcomes Based on Launch Date
 To visualize the Outcomes of Campaigns Based on Launch Date, I created a Pivot Table that was filtered on the Parent Category, 'Theater,' as well as 'Years.' Next, I set my columns to be the outcomes - successful, failed, canceled - and changed the Row Labels to the months of the year. This is the pivot table that was generated:
+
 <img width="492" alt="Screen Shot 2021-12-01 at 9 58 36 PM" src="https://user-images.githubusercontent.com/94096530/144366215-43955cc5-0c8c-4d58-bfd4-599e3b05bdfd.png">
 
 
